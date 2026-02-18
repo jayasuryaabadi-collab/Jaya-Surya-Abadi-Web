@@ -1,10 +1,3 @@
-index.html        → landing perusahaan
-produk.html       → toko online
-ekspor.html       → halaman ekspor wood pellet
-admin.html        → dashboard produk
-style.css
-app.js
-firebase.js
 <!DOCTYPE html>
 <html lang="id">
 <head>
